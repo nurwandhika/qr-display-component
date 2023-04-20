@@ -24,8 +24,7 @@ The QR code is created using an image file, and is displayed within a div that h
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [github](https://nurwandhika.github.io/qr-display-component/)
 
 ## My process
 

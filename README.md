@@ -73,6 +73,6 @@ Semantic HTML markup is used to structure the content of the page in a meaningfu
 
 ## Author
 
-- Website - [Nurwandhika Rachman](https://github.com/nurwandhika)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Website - [@nurwandhika](https://github.com/nurwandhika)
+- Frontend Mentor - [@nurwandhika](https://www.frontendmentor.io/profile/nurwandhika)
 - Twitter - [@nurwandhikar](https://www.twitter.com/nurwandhikar)

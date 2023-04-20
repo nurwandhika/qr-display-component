@@ -20,7 +20,7 @@ The QR code is created using an image file, and is displayed within a div that h
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![screenshot](./screenshot.jpg)
 
 ### Links
 
